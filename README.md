@@ -98,7 +98,7 @@ Does not work on older models Pre-2016
 
 ## Receivers WITH LAN Port
 
-| Name | Year | Watts | USB | BT | LAN | WiFi | Front | Center | Rear |
+| Model  | Year | Watts per<br>Channel | USB | Bluetooth | LAN | WiFi | Front<br>(Watts)| Center<br>(Watts) | Rear<br>(Watts) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SC-09TX | 2007 | 200 | ✔️ |  | ✔️ |  | 140 | 140 | 140 |
 | SC-05 | 2008 | 130 | ✔️ |  | ✔️ |  | 130 | 130 | 130 |
@@ -196,7 +196,7 @@ Does not work on older models Pre-2016
 
 ## Receivers WITHOUT LAN Port
 
-| Name | Year | Watts | USB | BT | LAN | WiFi | Front | Center | Rear |
+| Model  | Year | Watts per<br>Channel | USB | Bluetooth | LAN | WiFi | Front<br>(Watts)| Center<br>(Watts) | Rear<br>(Watts) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SX-V200 | 1984 | 30 |  |  |  |  |  |  |  |
 | SX-V300 | 1986 | 45 |  |  |  |  |  |  |  |
