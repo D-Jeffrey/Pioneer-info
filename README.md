@@ -2,7 +2,6 @@
 ## BLUF
 You should go to https://github.com/crowbarz/ha-pioneer_async and use that version if you are looking for something reliable to control your Pioneer.
 
-
 # Developer Notes and learnings
 
 in some models the port number is adjusted in the network setup.
@@ -86,15 +85,14 @@ Some models include this Network Standy which allows the power on commands to wo
 VSX-924 - Yes
 VSX=925 - No
 
-# ?RGD Command
+### ?RGD Command
 Does not work on older models Pre-2016
 
-# FL does not work on older models
+### FL does not work on older models
 
 
-## Pioneer Models that have a LAN (and/or WiFi)  
-(Source hifiengine.com) - 56 devices
-
+# Pioneer Models that have a LAN (and/or WiFi)  
+For Home Assistant Intergration see https://github.com/crowbarz/ha-pioneer_async if you Pioneer has a LAN port.
 
 ## Receivers WITH LAN Port
 
@@ -509,10 +507,11 @@ Does not work on older models Pre-2016
 | VSX-D939TX |  | 95 |  |  |  |  |  |  |  |
 
 
+### Reference
+(Source hifiengine.com) - 56 devices
 
+https://github.com/rwifall/pioneer-receiver-notes/blob/ec16e194f64860df4dcc2d105a57604a21a9c75c/README.md
 
-
-Move to https://github.com/crowbarz/ha-pioneer_async
 
 
 #### Work in Progress
@@ -533,8 +532,6 @@ Move to https://github.com/crowbarz/ha-pioneer_async
 |VSX-529 |8102 |2014  | ?              | ?      | ?  | ?    | ?   |?  | ? | ?    | ?    | Y/N | Y |
 
 
-### Reference
-https://github.com/rwifall/pioneer-receiver-notes/blob/ec16e194f64860df4dcc2d105a57604a21a9c75c/README.md
 
 
 
